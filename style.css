@@ -465,7 +465,7 @@ header .fa-bars{
     margin-top: 1rem;
 }
 
-.footer .credit{
+.credit{
     text-align: center;
     padding: 1.5rem;
     margin-top: 1.5rem;
@@ -475,7 +475,7 @@ header .fa-bars{
     border-top: .1rem solid rgba(0, 0, 0,.1);
 }
 
-.footer .credit span{
+.credit span{
     color: var(--pink);   
 }
 
